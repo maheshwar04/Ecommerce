@@ -26,7 +26,7 @@ It consists of the following microservices:
 
 - **Maven (Build Tool)**  
 
-- **Swagger(API Documentation)**
+- **Swagger (API Documentation)**
 
 ---
 
