@@ -26,6 +26,8 @@ It consists of the following microservices:
 
 - **Maven (Build Tool)**  
 
+- **Swagger(API Documentation)**
+
 ---
 
 ## **📌 Microservices Overview**
@@ -100,7 +102,7 @@ Each microservice runs independently on a different port and communicates with o
 
 Each microservice includes **Swagger UI** for easy API testing.  
 
-Click the links below to access Swagger documentation:
+Links below to access Swagger documentation:
 ```sh
 Product Service API:http://localhost:8081/swagger-ui.html
 
