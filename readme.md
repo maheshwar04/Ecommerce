@@ -38,6 +38,8 @@ Each microservice runs independently on a different port and communicates with o
 
 | **Eureka Server** | 8761 | Service Discovery |
 
+
+
 | **Product Service** | 8081 | Manages Products |
 
 | **Customer Service** | 8082 | Manages Customers, Fetches Products from Product Service |
@@ -93,6 +95,20 @@ Each microservice runs independently on a different port and communicates with o
 | GET    | `/orders/products/{id}` | Get product details by ID |
 
 ---
+
+## 📖 API Documentation with Swagger
+
+Each microservice includes **Swagger UI** for easy API testing.  
+
+Click the links below to access Swagger documentation:
+```sh
+Product Service API:http://localhost:8081/swagger-ui.html
+
+Customer Service API:http://localhost:8082/swagger-ui.html
+
+Order Service API:http://localhost:8083/swagger-ui.html
+```
+
 
 ## **🚀 Setup Instructions**
 
