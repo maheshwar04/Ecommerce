@@ -30,7 +30,9 @@ It consists of the following microservices:
 
 ---
 
-## **📌 Microservices Overview**
+## **📌 Microservices Overview & Architecture**
+
+<img src="https://github.com/user-attachments/assets/73b71d0b-dbcc-4fe8-8f86-1cb63456a8cf" width="800" height="400">
 
 Each microservice runs independently on a different port and communicates with others using **REST APIs**.
 
@@ -39,8 +41,6 @@ Each microservice runs independently on a different port and communicates with o
 |-----------------|------|------------|
 
 | **Eureka Server** | 8761 | Service Discovery |
-
-
 
 | **Product Service** | 8081 | Manages Products |
 
