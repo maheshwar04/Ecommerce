@@ -111,6 +111,22 @@ Customer Service API:http://localhost:8082/swagger-ui.html
 Order Service API:http://localhost:8083/swagger-ui.html
 ```
 ## **🚀 Screenshots**
+**Eureka Server**
+
+![Screenshot 2025-03-16 205401](https://github.com/user-attachments/assets/fd831ef1-c457-4a8a-bb86-7cc3661fbfc4)
+
+**Order Service API:http://localhost:8083/swagger-ui.html**
+
+![Screenshot 2025-03-16 205444](https://github.com/user-attachments/assets/02c67c22-8679-418c-a9ba-d62382df1928)
+
+**Customer Service API:http://localhost:8082/swagger-ui.html**
+
+![Screenshot 2025-03-16 205505](https://github.com/user-attachments/assets/0c9c809d-0c3b-4825-b2d2-71618d56839d)
+
+**Product Service API:http://localhost:8081/swagger-ui.html**
+
+![Screenshot 2025-03-16 205530](https://github.com/user-attachments/assets/84d1317d-44af-46ad-b808-373339c75dfd)
+
 
 ## **🚀 Setup Instructions**
 
